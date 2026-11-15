@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import pygame as pg
 
-_CJK_FONT_CANDIDATES = ("microsoftyahei", "simhei", "simsun", "dengxian")
+_CJK_FONT_CANDIDATES = ("notosanscjksc","notoserifcjksc","microsoftyahei", "simhei", "simsun", "dengxian")
 
 #: ui.yaml 里没有对应键的两项
 _EXTRA_CAMERA_VIOLET = (100, 100, 255)

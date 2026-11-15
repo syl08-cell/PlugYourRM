@@ -23,7 +23,7 @@ ROW_BG = (52, 60, 74)
 RULE = (70, 76, 86)
 CONFIRMED = (110, 220, 120)
 
-_CJK = ("microsoftyahei", "simhei", "simsun", "dengxian")
+_CJK = ("notosanscjksc", "notoserifcjksc", "microsoftyahei", "simhei", "simsun", "dengxian")
 COLUMNS = (("Tracker", Tracker), ("PoseSolver", PoseSolver))
 
 _MARGIN = 100
